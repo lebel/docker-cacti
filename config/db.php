@@ -21,11 +21,11 @@
  | http://www.cacti.net/                                                   |
  +-------------------------------------------------------------------------+
 */
-
+ 
 /* make sure these values refect your actual database/host/user/password */
 $database_type = "mysql";
 $database_default = "cacti";
-$database_hostname = "127.0.0.1";
+$database_hostname = "mysql";
 $database_username = "cactiuser";
 $database_password = "password";
 $database_port = "3306";
